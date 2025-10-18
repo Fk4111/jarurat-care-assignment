@@ -1,3 +1,50 @@
+# 📖 Overview
+
+Jarurat Care is a hospital management system designed to simplify and digitize hospital operations.
+It helps manage patients, and their disease, contacts and their records in one integrated platform.
+
+The system aims to make hospital workflows more efficient, reduce paperwork, and provide quick access to patient and doctor data.
+It is built for hospital administrators, doctors, and staff to manage day-to-day activities seamlessly.
+# 🚀 Features
+🩺 Patient registration & record management
+
+👨‍⚕️ Doctors 
+
+📅 When they arrived for the treatment
+
+😵‍💫 their disease
+
+🔒 Secure and safe data handling 
+
+# 🛠️ Tech Stack
+
+frontend :- HTML5, CSS3, TAILWIND CSS, JAVASCRIPT, REACT.JS 
+data :- Simple mock data in the form of JSON
+
+# ⚙️ Installation & Setup
+
+Clone the repository 👇
+
+git clone https://github.com/Fk4111/jarurat-care-assignment.git
+
+# Navigate to the project directory
+
+cd jarurat-care
+
+# Install dependencies
+
+npm install
+
+# Run the server
+
+npm start OR npm run dev (it is recommended).
+
+# GO to the server
+http://localhost:5713
+
+# 📸 Screenshots1
+1:- Landing Page 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
