@@ -42,11 +42,23 @@ npm start OR npm run dev (it is recommended).
 # GO to the server
 http://localhost:5713
 
-# 📸 Screenshots1
-1:- Landing Page (./Screenshot/Landing1.png) (./Screenshots/Landing2.png)
-2:- About Section (./Screenshots/About.png)
-3:- Add patient:- (./AddPatient.png)
-4:- patient list:- (./PatientList.png)
+### 📸 Screenshots1
+ ![Landing Page1 ](./Screenshot/Landing1.png)
+ ![Landing Page 2](./Screenshots/Landing2.png)
+![About Section](./Screenshots/About.png)
+![Add patient](./AddPatient.png)
+![patient list](./PatientList.png)
+
+# 💡 Contributing
+
+Pull requests are welcome!
+If you’d like to contribute, please open an issue first to discuss what you’d like to change.
+
+# 📬 Contact
+
+Developer: Faiyaz khan
+Email: khanfaiyaz359@gmail.com
+GitHub: Fk4111
 
 # React + Vite
 
