@@ -43,7 +43,10 @@ npm start OR npm run dev (it is recommended).
 http://localhost:5713
 
 # 📸 Screenshots1
-1:- Landing Page 
+1:- Landing Page (./Screenshot/Landing1.png) (./Screenshots/Landing2.png)
+2:- About Section (./Screenshots/About.png)
+3:- Add patient:- (./AddPatient.png)
+4:- patient list:- (./PatientList.png)
 
 # React + Vite
 
